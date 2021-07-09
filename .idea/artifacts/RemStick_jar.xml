@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RemStick:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RemStick_jar</output-path>
+    <root id="archive" name="RemStick.jar">
+      <element id="module-output" name="RemStick" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+name: RemStick
+description: Very simple remove entity stick
+version: 1.0
+main: ru.darkcov.remstick.main
+api-version: 1.13
+author: darkcov
+website: https://github.com/darkcov/RemStick
+permissions:
+    remstick.use:
+        description: Permission for use a stick
+commands:
+  getremstick:
+    usage: /getremstick
+    description: Get remove stick.
